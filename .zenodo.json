@@ -1,0 +1,13 @@
+{
+  "title": "DOC-OCIM-Data",
+  "description": "Figure source data and NetCDF products for DOC and OCIM analyses.",
+  "creators": [
+    {
+      "name": "Weijie Ke"
+    }
+  ],
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "version": "1.0.0"
+}
